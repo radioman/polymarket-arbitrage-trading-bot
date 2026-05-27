@@ -1,7 +1,7 @@
 # Polymarket arbitrage bot 
 
 The demo bot simulates BTC 5-minute Up/Down trades using **virtual USDC**. It uses the same live market data as the dashboard (Polymarket odds, BTC spot, price-to-beat) but **never places real orders**.
-
+## 🟢🟢🟢New prediction market from GMGN [future.news](https://future.news/D1NU57OF)
 ---
 <img width="1917" height="893" alt="Screenshot 2026-05-18 031019" src="https://github.com/user-attachments/assets/f45c8109-6500-4c64-bb22-31297657f20e" />
 <img width="1861" height="881" alt="Screenshot 2026-05-18 011706" src="https://github.com/user-attachments/assets/d46676ea-5f88-482e-91d4-e81aeef2f6df" />
