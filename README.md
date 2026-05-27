@@ -1,11 +1,44 @@
 # Polymarket arbitrage bot 
+---
+Advanced analytics and signal engine for prediction market trading on [Polymarket](https://polymarket.com).
 
-The demo bot simulates BTC 5-minute Up/Down trades using **virtual USDC**. It uses the same live market data as the dashboard (Polymarket odds, BTC spot, price-to-beat) but **never places real orders**.
-## 🟢🟢🟢New prediction market from GMGN [future.news](https://future.news/D1NU57OF)
+Built for:
+
+* arbitrage detection
+* market inefficiency analysis
+* real-time trading signals
+* spread monitoring
+* execution optimization
+* automated trading workflows
+
+The system continuously tracks market movements, liquidity, volatility, and pricing inefficiencies to identify high-probability trading opportunities across prediction markets.
+
+### Features
+
+* Real-time arbitrage detection
+* Smart trading signals
+* Advanced analytics dashboard
+* AI-assisted trade optimization
+* Position and PnL tracking
+* Risk management tools
+* Telegram integration
+* Automated execution support
+
+Designed specifically for fast-moving prediction markets and high-frequency trading environments.
 ---
 <img width="1917" height="893" alt="Screenshot 2026-05-18 031019" src="https://github.com/user-attachments/assets/f45c8109-6500-4c64-bb22-31297657f20e" />
 <img width="1861" height="881" alt="Screenshot 2026-05-18 011706" src="https://github.com/user-attachments/assets/d46676ea-5f88-482e-91d4-e81aeef2f6df" />
 <img width="1893" height="769" alt="Screenshot 2026-05-18 011723" src="https://github.com/user-attachments/assets/3cd99752-bc90-4bda-9c69-a1228251d1cb" />
+---
+
+### 🟢 New Prediction Market Platform
+
+Explore the new prediction market platform by GMGN:
+
+[Future News](https://future.news/D1NU57OF)
+
+Future News is a prediction market platform focused on trading real-world events with wallet-connected execution and real-time market data.
+<img width="1487" height="767" alt="image" src="https://github.com/user-attachments/assets/2a6555b2-18d8-44e7-908d-06b2a6e621e2" />
 
 ## Quick start
 
