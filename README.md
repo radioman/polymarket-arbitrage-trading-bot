@@ -1,6 +1,6 @@
 # Polymarket arbitrage bot 
 ---
-Advanced analytics and signal engine for prediction market trading on [Polymarket](https://polymarket.com).
+Advanced analytics and signal engine for prediction market trading on [Polymarket](https://polymarket.com/?r=cryptoking1106).
 
 Built for:
 
@@ -412,6 +412,7 @@ npm start
 set DEMO_BOT_CONFIG=config\my-bot.json
 npm run demo
 ```
+Advanced analytics and signal engine for prediction market trading on [Polymarket](https://polymarket.com/?r=cryptoking1106).
 
 ---
 
