@@ -2,6 +2,8 @@
 ---
 Advanced analytics and signal engine for prediction market trading on [Polymarket](https://polymarket.com/?r=cryptoking1106).
 
+(🌟click! so your polymarket account will be boosted)<a href="https://polymarket.com/?r=cryptoking1106"><img width="745" height="93" alt="image" src="https://github.com/user-attachments/assets/746d4631-5b96-4fe9-b955-afedf971256c" /></a>
+
 Built for:
 
 * arbitrage detection
